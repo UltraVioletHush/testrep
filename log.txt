@@ -1,0 +1,36 @@
+POST / HTTP/1.1
+User-Agent: Slackbot 1.0 (+https://api.slack.com/robots)
+Accept-Encoding: gzip,deflate
+Accept: application/json,*/*
+X-Slack-Signature: v0=d3ec9dd722c49dd89329a0decafd84325a26db52a99fb503e2cb10dadb629192
+X-Slack-Request-Timestamp: 1751392190
+Content-Length: 1902
+Content-Type: application/x-www-form-urlencoded
+Host: 18.192.122.232:1234
+Cache-Control: max-age=259200
+Connection: keep-alive
+
+payload type":block_actions
+"user_id":U08UA00T3B7
+"username":yuval
+"name":yuval
+"team_id":T08SW3XSCCT_api_app_id":A090HAG8U2E
+"token":TPj0yK3I0HuCHEXfBlkMp2PY
+"container_type":message
+"message_ts":1751392171.600699
+"channel_id":C08UECXL2MT
+"is_ephemeral":false
+trigger_id":9134679395364.8914133896435.521d095ca90fdc054260adc13922b9df
+"team_id":T08SW3XSCCT
+"domain":hushtestworks-riv6065_enterpriseAnull
+"is_enterprise_install": false
+"channel_id":C08UECXL2MT
+"name":privategroup_message_subtype":bot_message
+"text":Click+to+View+Invoice+button
+"type":message
+"ts":1751392171.600699
+"bot_id":B090EAC2M0D
+
+blocks
+type":actions
+"block_id":evECl
